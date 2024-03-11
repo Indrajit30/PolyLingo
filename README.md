@@ -62,14 +62,11 @@ To embark on your language learning journey with PolyLingo:
 5. To use Discord bot in you own server:https://discord.com/oauth2/authorize?client_id=1173997968341352519&scope=applications.commands.
 6. Run discord bot locally using npm start
 
-<h3>Detailed Presentation can be found in the:
-[LinguaConnect-PiedPipers.pdf](https://github.com/Siddesh1214/TRINIT-PiedPipers-DEV-02-/files/14547472/LinguaConnect-PiedPipers.pdf) .</h3>
+## Colaborators
+1. Ajitesh Dubey
+2. Indrajit Dalvi
+3. Siddhesh Shinde
 
 
 ## Happy Learning with PolyLingo! 🌟🗣️
 Choose PolyLingo for a comprehensive, engaging, and cost-effective language learning experience. Unlock the world of languages with PolyLingo – where learning knows no bounds!
-
-# PolyLingo
-# PolyLingo
-# PolyLingo
-# PolyLingo
